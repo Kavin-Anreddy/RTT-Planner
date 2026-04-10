@@ -12,6 +12,7 @@ The simulator supports dynamic environments, meaning the path is continuously ch
 - KD-tree for efficient nearest-neighbor search
 - Optional path smoothing (Catmull-Rom splines)
 - Interactive controls and live visualization
+- Better optimization will be included in the future!
 
 ## Controls
 
